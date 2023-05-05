@@ -7,7 +7,7 @@ const ChildC = () => {
     
   return (
     <div>
-      <h1>Hi, My firstName is {info.firstName} and My lastName is {info.lastName} Gender is {info.gender} and my City is {info.city} </h1>
+      <h1>Hi, My first name is {info.firstName} and My lastName is {info.lastName} Gender is {info.gender} and my City is {info.city} </h1>
     </div>
   )
 }
